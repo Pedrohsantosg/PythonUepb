@@ -1,1 +1,2 @@
-<h1>Algoritmos UEPB</h1>
+
+<h1 align="center">Algoritmos UEPB</h1>
