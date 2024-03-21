@@ -1,7 +1,7 @@
 # 🐍 Questões da matéria de algoritmos UEPB
 
 ## Lista I
-### Questões sobre int, float, str, if e else
+### Questões sobre int, float, str, if , else, for, while, ...
 N | Questao | Situacao
 -------|------|---------
 1 |  Faca um Programa que peca um numero e entao mostre a mensagem: O numero informado foi [numero]. | Feito
