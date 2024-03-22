@@ -64,7 +64,7 @@ N | Questao | Situacao
 48 | Escreva um programa que calcula o fatorial de um dado número N. | Feito
 49 | Faça um programa para somar os números pares positivos < 1000 e ao final escrever o resultado. | Feito
 50 | Faça um programa para calcular a área de N quadriláteros. Fórmula: Área = Lado * Lado.  | Feito
-51 | Faça um programa para calcular um valor A elevado a um expoente B. Os valores A e B deverão ser lidos. Não usar A** B e sim uma estrutura de repetição. | A fazer
+51 | Faça um programa para calcular um valor A elevado a um expoente B. Os valores A e B deverão ser lidos. Não usar A** B e sim uma estrutura de repetição. | Feito
 52 | Sendo H = 1 + 1/2 + 1/3 + 1/4 + ... + 1/N. Faça um programa para gerar e mostrar o número H. O número N será fornecido como entrada. | A fazer
 53 | Faça um programa para: a) Ler um valor x qualquer b) Calcular Y = (x+1)+(x+2)+(x+3)+(x+4)+(x+5)+…(x+100). | A fazer
 54 | Fazer um programa que calcule e escreva a soma dos 50 primeiros termos da seguinte série: ![q54](https://media.discordapp.net/attachments/715218092560613476/1220148620146245662/image.png?ex=660de2f4&is=65fb6df4&hm=1beb5ef739e8b9096c2c5ace92660fcf45538f20b141839696e520d182b20bac&=&format=webp&quality=lossless&width=273&height=81) | A fazer
