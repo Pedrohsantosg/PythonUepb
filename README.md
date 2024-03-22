@@ -60,7 +60,7 @@ N | Questao | Situacao
 N | Questao | Situacao
 -------|------|---------
 46 | Escreva um programa que calcula a média de 30 alunos e informa a situação(reprovado, aprovado ou recuperação). | Feito
-47 | Escreva um programa que leia 10 números e informe o maior e o menor número. | A fazer
+47 | Escreva um programa que leia 10 números e informe o maior e o menor número. | Feito
 48 | Escreva um programa que calcula o fatorial de um dado número N. | A fazer
 49 | Faça um programa para somar os números pares positivos < 1000 e ao final escrever o resultado. | A fazer
 50 |Faça um programa para calcular a área de N quadriláteros. Fórmula: Área = Lado * Lado.  | A fazer
